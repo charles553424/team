@@ -11,6 +11,7 @@
     "url": "https://github.com/charles553424/team.git"
   },
   "dependencies": {
+    "team": "1.0.0",
     "amba-tea": "1.0.0"
   },
   "author": "",
