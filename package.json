@@ -1,7 +1,7 @@
 {
   "name": "team",
-  "version": "1.0.0",
-  "description": "Basic demonstration app",
+  "version": "1.0.1",
+  "description": "team",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,8 +11,8 @@
     "url": "https://github.com/charles553424/team.git"
   },
   "dependencies": {
-    "team": "1.0.0",
-    "amba-tea": "1.0.0"
+    "team": "1.0.1",
+    "tea-choudru": "1.0.2"
   },
   "author": "",
   "license": "ISC",
