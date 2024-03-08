@@ -1,6 +1,6 @@
 {
   "name": "team",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "team",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "https://github.com/charles553424/team.git"
   },
   "dependencies": {
-    "team": "1.0.2",
+    "team": "1.0.3",
     "cheh-demonstration": "1.0.2"
   },
   "author": "",
