@@ -1,6 +1,6 @@
 {
   "name": "team",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "team",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "https://github.com/charles553424/team.git"
   },
   "dependencies": {
-    "team": "1.0.1",
+    "team": "1.0.2",
     "amba-tea": "1.0.2"
   },
   "author": "",
